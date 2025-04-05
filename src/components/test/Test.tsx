@@ -1,5 +1,5 @@
 interface TestProps {
-  name: any;
+  name: string;
 }
 
 const Test = (props: TestProps) => {
