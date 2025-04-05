@@ -5,7 +5,7 @@ import Test from "./components/test/Test";
 export default function App() {
   return (
     <Container>
-      <Test name={1} />
+      <Test name={"oded"} />
       <MySelect />
     </Container>
   );
